@@ -1,8 +1,0 @@
-TOKEN
-    Name  = "SRIOV_SUPPORT"
-    Value  = "0"
-    Help  = "Enables Single Root IO Virtualization (SRIOV) Support."
-    TokenType = Boolean
-    TargetH = Yes
-    Range  = "On/Off"
-End
